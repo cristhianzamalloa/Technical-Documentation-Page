@@ -27,6 +27,7 @@
 }
 
 .nav-link {
+    color: rgb(199, 198, 198);
     display: block;
     margin: 1rem 0 1rem 0;
     text-decoration: none;
@@ -53,6 +54,7 @@
 
 header {
     font-weight: 600;
+    margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
 
@@ -61,6 +63,13 @@ h2 {
 }
 
 p {
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+code {
+    font-style: italic;
     line-height: 1.5rem;
     margin-bottom: 1.5rem;
     margin-top: 0.5rem;
